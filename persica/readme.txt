@@ -1,0 +1,1 @@
+Persica is an open source news text corpus in persian language consist of ISNA (Iranian Student News Agency) as our NEWS resource.
